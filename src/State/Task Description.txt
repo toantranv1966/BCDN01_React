@@ -1,0 +1,5 @@
+Phân tích yêu cầu:
+
+B1: Xây giao diện : Tạo component.jsx (chèn thêm css)
+B2: Xác định dữ liệu cần thay đổi =>  : đối tượng state{} & kiểu dữ liệu của nó
+B3: Xây dựng phương thức (Xác định phương thức sẽ chứa setState)
